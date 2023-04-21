@@ -5,4 +5,6 @@ Elaborado en la clase del día 20/04/2023</br>
 1er Bimestre del 2023</br>
 3er Bimestre de la carrera de posgrado CESE
 
+Versión de la entrega: A
+
 Alumno: Colavitte Facundo G.
